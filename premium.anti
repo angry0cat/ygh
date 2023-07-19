@@ -1,2 +1,3 @@
 loadstring(game:HttpGet('https://raw.githubusercontent.com/angry0cat/s/main/premium.anti'))()
 loadstring(game:HttpGet("https://raw.githubusercontent.com/88fear/script/main/aimviewer"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/angry0cat/ok8/main/underground"))()
